@@ -17,7 +17,7 @@ The latter file may have been renamed on the computer to `556.$CP` or similar.
 
 1. First, launch the application.
    ![Scantools Icon](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/scantool.jpg?raw=true "Scantool Icon")
-2. Select the appropriate application and datafile.
+2. Select the appropriate application and datafile.  The application is "556 MCQ 50 (KanMY)".  You may have to add a new datafile, or if you use an existing datafile, you may have to delete it so that compatibility problems don't arise (say if you are re-using the same file from last semester).
    ![New Datafile](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/newdf.jpg?raw=true "New Datafile")
 3. Load in your MCQ 50 forms with the reading barcode facing the input of the machine (that is, load the paper sideways).  In my experience, loading small batches is good, as the machine can jam fairly easily.  Don't feed crumpled papers; either do these again on another MCQ sheet on behalf of the original, or hand-enter them later (since it takes longer to fill in a new form than typing the results in for those that got stuck).  After loading ... (wait for it ... wait for it) ... press "Scan"!
    ![Load the Scanner](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/scanner.jpg?raw=true "Load the Scanner")
@@ -27,6 +27,8 @@ The latter file may have been renamed on the computer to `556.$CP` or similar.
    ![CSV in Excel](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/csvinxls.jpg?raw=true "CSV in Excel")
 
 6. I suggest that you convert the CSV file into an Excel spreadsheet so that you can do the scoring more comprehensively in the spreadsheet directly.
+7. For marks safety, I also suggest that you securely delete the marks file from your scan after you leave.
+8. For MCQ (i.e., "mark one choice" vs. this "mark all responses"), please reset the application to the "555" application, scoring profile and conversion application.  The "555" MCQ application has scoring pre-built against a key, whereas in this application, I have not yet set a scoring mechanism and prefer to do the scoring separately.
 
 ## History
 
