@@ -15,3 +15,4 @@ The latter file may have been renamed on the computer to `556.$CP` or similar.
 
 ## Steps for using the application
 
+[alt text](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/scantool.jpg "Logo Title Text 1")
