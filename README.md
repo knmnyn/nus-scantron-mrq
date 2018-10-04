@@ -19,10 +19,11 @@ The latter file may have been renamed on the computer to `556.$CP` or similar.
    ![Scantools Icon](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/scantool.jpg?raw=true "Scantool Icon")
 2. Select the appropriate application and datafile.
    ![New Datafile](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/newdf.jpg?raw=true "New Datafile")
-3. ![Datafile](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/datafile.jpg?raw=true "Datafile")
-4. Load in your MCQ 50 forms with the reading barcode facing the input of the machine (that is, load the paper sideways)
+3. Load in your MCQ 50 forms with the reading barcode facing the input of the machine (that is, load the paper sideways)
    ![Load the Scanner](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/scanner.jpg?raw=true "Load the Scanner")
-5. After it completes, you can load in your CSV into Excel.  The results should look like this.  
+4. After scanning, your files will appear in the destination directory (which in this computer at the Equipment Room in SoC COM2 #02-63, is `D:\SFW\results\`.
+   ![Datafile](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/datafile.jpg?raw=true "Datafile")
+5. After it completes, you can load in your CSV into Excel.  The results should look like this, with a column for the Student ID, and columns for each mark all "MA" question 1 through 50.  Each entry is "left-justified" such that the question will have _nil_ (no response) or a substring of "ABCDE" in the entry.
    ![CSV in Excel](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/csvinxls.jpg?raw=true "CSV in Excel")
 
 6. I suggest that you convert the CSV file into an Excel spreadsheet so that you can do the scoring more comprehensively in the spreadsheet directly.
