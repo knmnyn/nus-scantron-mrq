@@ -19,7 +19,7 @@ The latter file may have been renamed on the computer to `556.$CP` or similar.
    ![Scantools Icon](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/scantool.jpg?raw=true "Scantool Icon")
 2. Select the appropriate application and datafile.
    ![New Datafile](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/newdf.jpg?raw=true "New Datafile")
-3. Load in your MCQ 50 forms with the reading barcode facing the input of the machine (that is, load the paper sideways)
+3. Load in your MCQ 50 forms with the reading barcode facing the input of the machine (that is, load the paper sideways).  In my experience, loading small batches is good, as the machine can jam fairly easily.  Don't feed crumpled papers; either do these again on another MCQ sheet on behalf of the original, or hand-enter them later (since it takes longer to fill in a new form than typing the results in for those that got stuck).  After loading ... (wait for it ... wait for it) ... press "Scan"!
    ![Load the Scanner](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/scanner.jpg?raw=true "Load the Scanner")
 4. After scanning, your files will appear in the destination directory (which in this computer at the Equipment Room in SoC COM2 #02-63, is `D:\SFW\results\`.
    ![Datafile](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/datafile.jpg?raw=true "Datafile")
