@@ -15,4 +15,8 @@ The latter file may have been renamed on the computer to `556.$CP` or similar.
 
 ## Steps for using the application
 
-![Scantools](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/scantool.jpg?raw=true "Logo Title Text 1")
+1. ![Scantools](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/scantool.jpg?raw=true "Logo Title Text 1")
+2. ![Scantools](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/newdf.jpg?raw=true "Logo Title Text 1")
+3. ![Scantools](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/datafile.jpg?raw=true "Logo Title Text 1")
+4. ![Scantools](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/scanner.jpg?raw=true "Logo Title Text 1")
+5. ![Scantools](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/csvinxls.jpg?raw=true "Logo Title Text 1")
