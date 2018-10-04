@@ -8,8 +8,8 @@ This file documents how to use the standard School of Computing Multiple Choice 
 
 This software is installed and usable on the MCQ machine in the Equipment Room in SoC COM2 #02-63.  If using it elsewhere you will need the two files in the root directory of this repository:
 
-* `[Z556.SDS](../blob/master/Z556.SDS)` goes in `C:\Program Files (x86)\Scantron\ScanTools Plus\Applications`
-* `[CS3244.$CP](../blob/master/CS3244.$CP)` goes in `C:\Program Files (x86)\Scantron\ScanTools Plus\Profiles`
+* [Z556.SDS](../blob/master/Z556.SDS) goes in `C:\Program Files (x86)\Scantron\ScanTools Plus\Applications`
+* [CS3244.$CP](../blob/master/CS3244.$CP) goes in `C:\Program Files (x86)\Scantron\ScanTools Plus\Profiles`
 
 The latter file may have been renamed on the computer to `556.$CP` or similar.
 
