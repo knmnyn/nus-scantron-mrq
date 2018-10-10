@@ -30,6 +30,36 @@ The latter file may have been renamed on the computer to `556.$CP` or similar.
 7. For marks safety, I also suggest that you securely delete the marks file from your scan after you leave.
 8. For MCQ (i.e., "mark one choice" vs. this "mark all responses"), please reset the application to the "555" application, scoring profile and conversion application.  The "555" MCQ application has scoring pre-built against a key, whereas in this application, I have not yet set a scoring mechanism and prefer to do the scoring separately.
 
+## In-Frequently Asked Questions (iFAQ)
+
+1. Can you use Multiple Choice questions on the form?  Yes.  The form allows you to do both.
+
+2. Partial credits.  Wai Kay suggests:
+
+```
+To me, an option is correctly answered if it is supposed to be shaded and student shades it, or it is supposed to be unshaded and student did not shade it.  
+ 
+Thus the marking scheme I use is:
+3 marks for all 5 correct 
+2 marks for 4 correct
+1 mark for 3 correct
+0 marks otherwise.
+
+This will give a random chance of around 25%, which is slightly more than 5 option MCQ. But less than 50% if taken as a set of T/F questions.
+```
+
+3. Sample instructions.  I suggest:
+
+   ![Sample Instructions](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/s_instr.png?raw=true "Sample Instructions")
+   
+4. None of the above marking: Do we need to worry about having an option for "None of the Above"?  Do we avoid the anomaly that a student who didn't have time to answer some questions still earning some marks for those unanswered questions.
+
+> I wouldn't be too concerned about this. No students will leave blanks in an MCQ if they run out of time. They would just randomly shade an option. Having MRQ with option E as "None of the above" will just result in this happening, and you would have removed 1 of the 32 possible combinations. With MRQ they would randomly shade 2 or 3 and hope for the best
+
+> True. To add,
+> * Using E is 'None of the above' actually makes it a 4-choice question, reducing legit combinations from 32 to 16?
+> * Yes, students do random shading for MCQ but with MRQ there is no need to randomly shade anything, as an unanswered question is 50% correct already (provided roughly half the options are 'false' options). Random shading does not improve those odds.
+
 ## History
 
 I cloned the original 555 application that works for the same 50 MCQ response sheet and renamed it 556 to test out how it might work, hence the ID "556".
