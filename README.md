@@ -62,4 +62,4 @@ The latter file may have been renamed on the computer to `556.$CP` or similar.
 
 I (knmnyn) cloned the original 555 application that works for the same 50 MCQ response sheet and renamed it 556 to test out how it might work, hence the ID "556".
 gt
-Thanks to Terence Sim, Leong Wai Kay (@pottiepie), Damith Rajapakse for input for the iFAQ section.
+Thanks to Terence Sim, Leong Wai Kay ([@pottiepie](https://github.com/pottiepie)), Damith Rajapakse for input for the iFAQ section.
