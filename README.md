@@ -36,17 +36,15 @@ The latter file may have been renamed on the computer to `556.$CP` or similar.
 
 2. Partial credits.  Wai Kay suggests:
 
-```
-To me, an option is correctly answered if it is supposed to be shaded and student shades it, or it is supposed to be unshaded and student did not shade it.  
- 
-Thus the marking scheme I use is:
-3 marks for all 5 correct 
-2 marks for 4 correct
-1 mark for 3 correct
-0 marks otherwise.
-
-This will give a random chance of around 25%, which is slightly more than 5 option MCQ. But less than 50% if taken as a set of T/F questions.
-```
+> To me, an option is correctly answered if it is supposed to be shaded and student shades it, or it is supposed to be unshaded and student did not shade it.  
+> 
+> Thus the marking scheme I use is:
+> * 3 marks for all 5 correct 
+> * 2 marks for 4 correct
+> * 1 mark for 3 correct
+> * 0 marks otherwise.
+>
+> This will give a random chance of around 25%, which is slightly more than 5 option MCQ. But less than 50% if taken as a set of T/F questions.
 
 3. Sample instructions.  I suggest:
 
