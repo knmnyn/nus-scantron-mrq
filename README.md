@@ -48,7 +48,7 @@ The latter file may have been renamed on the computer to `556.$CP` or similar.
 
 3. Sample instructions.  I suggest:
 
-   ![Sample Instructions](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/s_instr.png?raw=true "Sample Instructions")
+  ![Sample Instructions](https://github.com/knmnyn/nus-scantron-mrq/blob/master/images/s-instr.png?raw=true "Sample Instructions")
    
 4. None of the above marking: Do we need to worry about having an option for "None of the Above"?  Do we avoid the anomaly that a student who didn't have time to answer some questions still earning some marks for those unanswered questions.
 
