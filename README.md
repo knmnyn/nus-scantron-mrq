@@ -45,6 +45,7 @@ The latter file may have been renamed on the computer to `556.$CP` or similar.
 > * 0 marks otherwise.
 >
 > This will give a random chance of around 25%, which is slightly more than 5 option MCQ. But less than 50% if taken as a set of T/F questions.
+> Wai Kay: See Siddiqui NI, Bhavsar VH, Bhavsar AV, Bose S. Contemplation on marking scheme for Type X multiple choice questions, and an illustration of a practically applicable scheme. Indian Journal of Pharmacology. 2016;48(2):114-121. doi:10.4103/0253-7613.178836.
 
 3. Sample instructions.  I suggest:
 
